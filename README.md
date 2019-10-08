@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+Hi folks. This is Will and I'm making my first repository, edit and commit.
